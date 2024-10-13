@@ -5,3 +5,9 @@ GET http://localhost:3000/awesome HTTP/1.1
 
 ###
 GET https://api-leasson01.onrender.com HTTP/1.1
+
+###
+GET http://localhost:3000/contacts HTTP/1.1
+
+###
+GET http://localhost:3000/contacts/Alice HTTP/1.1
