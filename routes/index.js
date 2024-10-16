@@ -8,5 +8,7 @@ routes.get('/contacts', myController.getAllContacts);
 routes.get('/contacts/:firstName', myController.getContactByFirstName);
 
 routes.post('/contacts', myController.createContact);
+routes.put('/contacts/:id', myController.updateContact);
+routes.delete('/contacts/:id', myController.deleteContact);
 
 module.exports = routes;
