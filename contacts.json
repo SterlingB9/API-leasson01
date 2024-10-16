@@ -1,25 +1,32 @@
 [
-    {
-        "contact1": {
-            "firstName": "Alice",
-            "lastName": "Johnson",
-            "email": "alice.johnson@example.com",
-            "favoriteColor": "blue",
-            "birthday": "1990-05-15"
-        },
-        "contact2": {
-            "firstName": "Bob",
-            "lastName": "Smith",
-            "email": "bob.smith@example.com",
-            "favoriteColor": "green",
-            "birthday": "1985-11-22"
-        },
-        "contact3": {
-            "firstName": "Charlie",
-            "lastName": "Brown",
-            "email": "charlie.brown@example.com",
-            "favoriteColor": "red",
-            "birthday": "1992-03-30"
-        }
+  {
+    "contact1": {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "favoriteColor": "blue",
+      "birthday": "1990-05-15"
+    },
+    "contact2": {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@example.com",
+      "favoriteColor": "green",
+      "birthday": "1985-11-22"
+    },
+    "contact3": {
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "email": "charlie.brown@example.com",
+      "favoriteColor": "red",
+      "birthday": "1992-03-30"
+    },
+    "contact4": {
+      "firstName": "Kevin",
+      "lastName": "Doe",
+      "email": "kevin.doe@example.com",
+      "favoriteColor": "purple",
+      "birthday": "1991-07-20"
     }
+  }
 ]

@@ -7,4 +7,6 @@ routes.get('/awesome', myController.returnAnotherPerson);
 routes.get('/contacts', myController.getAllContacts);
 routes.get('/contacts/:firstName', myController.getContactByFirstName);
 
+routes.post('/contacts', myController.createContact);
+
 module.exports = routes;
