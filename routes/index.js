@@ -1,6 +1,7 @@
 const routes = require('express').Router();
 const myController = require('../controllers');
 const path = require('path');
+const port = process.env.PORT || 10000;
 
 routes.get('/', myController.awesomeFunction);
 routes.get('/awesome', myController.returnAnotherPerson);
